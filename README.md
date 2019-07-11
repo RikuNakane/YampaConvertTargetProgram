@@ -21,12 +21,12 @@ This is moving-ball within frame program the ball move at a constant speed withi
 
 # Ha4Program.hs
 
-This is moving-ball within frame program the ball move at a constant speed within a square connection four points (15,15),(15,-10),(-10,-10),(-10,15). Four "edge" functions are used to reflect on the wall. This program causes the error.
+This is moving-ball within frame program the ball move at a constant speed within a square connection four points (15,15),(15,-10),(-10,-10),(-10,15). Four "edge" functions are used to reflect on the wall. This program don't causes the error.
 
 
 # Ha4Program2.hs
 
-This is moving-ball within frame program the ball move at a constant speed within a square connection four points (15,15),(15,-10),(-10,-10),(-10,15). Four "edge" functions is used to reflect on the wall. This program don't causes the error.
+This is moving-ball within frame program the ball move at a constant speed within a square connection four points (15,15),(15,-10),(-10,-10),(-10,15). Four "edge" functions is used to reflect on the wall. This program causes the error unlike Ha4Program.hs.
 
 # TempControl.hs
 
