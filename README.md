@@ -36,6 +36,6 @@ This is temp-control program the cooler is switched  "on" state and "off" state 
 This is moving-ball within frame program the two ball move at a constant speed within a square connection four points (15,15),(15,-10),(-10,-10),(-10,15). when distance of two balls is small, collision event is detected and two balls switch speed. This program causes the error.
 
 
-# 2Ha4Program1.hs
+# 2Ha4Program2.hs
 
 This is moving-ball within frame program the two ball move at a constant speed within a square connection four points (15,15),(15,-10),(-10,-10),(-10,15). when distance of two balls is small and both balls are in the frame, collision event is detected and two balls switch speed. This program doesn't cause the error.
